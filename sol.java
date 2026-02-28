@@ -20,7 +20,7 @@ public class sol{
 			}
 			System.out.println(count);
 			System.out.println("github");
-			System.out.println("hi");
+			System.out.println("hddi");
 		}
 	}
 }
