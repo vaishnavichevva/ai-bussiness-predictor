@@ -20,6 +20,9 @@ public class sol{
 			}
 			System.out.println(count);
 			System.out.println("me");
+			System.out.println("github");
+      System.out.println("github");
+
 		}
 	}
 }
